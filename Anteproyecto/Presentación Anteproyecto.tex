@@ -1,4 +1,4 @@
-\documentclass[12pt]{beamer}
+\documentclass[11pt]{beamer}
 \usetheme{CambridgeUS}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -12,7 +12,7 @@
 \title[Anteproyecto]{Diseño y validación de muestreo de cítricos para detección de enfermedades en viveros del Valle del Cauca}
 
 
-\newcommand\Wider[2][3em]{%
+\newcommand\Wider[2][1em]{%
 \makebox[\linewidth][c]{%
   \begin{minipage}{\dimexpr\textwidth+#1\relax}
   \raggedright#2
@@ -91,4 +91,25 @@
 \end{itemize}
 \end{itemize}
 \end{frame}
+
+\begin{frame}
+\frametitle{Variable de interés}
+~\\Nuestra variable de interés se puede definir de la siguiente manera:
+$$X= \left\{\begin{array}{cc}
+             1 &   si \; la \; planta \; esta \; infectada \\
+             \\ 0 &  si \; la \; planta \; no \; esta \; infectada \\
+             \end{array}
+   \right.$$
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Variable de interés}
+~\\Para llegar a la variable de interés definida anteriormente, se lleva a cabo una prueba de laboratorio en la cuál se pueden medir hasta 45 muestras de tejido de plantas, donde se obtiene al final una coloración en el recipiente, a esta coloración se le hace una lectura visual o colorimétrica, usualmente se utiliza más la medida colorimétrica por ser mas objetiva, esta se obtiene con un valor de absorbancia, que corresponde en pocas palabras a una cuantificación de la percepción del color. Se encuentra de la siguiente manera:
+\[ A_\lambda=-log_{10} \left( \frac{I}{I_0}\right) \]
+~\\Donde:
+~\\I es la intensidad de la luz con una longitud de onda específica $\lambda$ tras haber atravesado una muestra (intensidad de la luz transmitida).
+~\\$I_0$  es la intensidad de la luz antes de entrar a la muestra (intensidad de la luz incidente).
+\end{frame}
+
 \end{document}
