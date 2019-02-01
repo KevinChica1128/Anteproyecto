@@ -1,0 +1,147 @@
+\documentclass[11pt]{beamer}
+\usetheme{CambridgeUS}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\setbeamertemplate{navigation symbols}{} 
+\author[Kevin García - Alejandro Vargas]{Kevin García 1533173 \newline Alejandro Vargas 1525953}
+\title[Anteproyecto]{Diseño y validación de muestreo de cítricos para detección de enfermedades en viveros del Valle del Cauca}
+
+
+\newcommand\Wider[2][1em]{%
+\makebox[\linewidth][c]{%
+  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+  \raggedright#2
+  \end{minipage}%
+  }%
+}
+
+
+%\setbeamercovered{transparent} 
+%\setbeamertemplate{navigation symbols}{} 
+%\logo{} 
+%\institute{} 
+%\date{} 
+%\subject{} 
+\begin{document}
+\justify
+\begin{frame}
+\frametitle{Titulo y proyecto}
+\textbf{Titulo del trabajo:} Diseño y validación de muestreo de cítricos para detección de enfermedades en viveros del Valle del Cauca
+\begin{itemize}
+\justifying
+\item Entidad encargada: AGROSAVIA (Corpoica)
+~\\La Corporación Colombiana de Investigación Agropecuaria, Corpoica, es una entidad pública descentralizada de participación mixta sin ánimo de lucro, de carácter científico y técnico, cuyo objeto es desarrollar y ejecutar actividades de Investigación, Tecnología y transferir procesos de Innovación tecnológica al sector agropecuario.
+
+~\\
+\item Personal a cargo:
+\begin{itemize}
+\item[-]Nubia Murcia Riaño (Investigador Ph.D.)
+\item[-]Mauricio Fernando Martínez (Investigador Máster)
+\item[-]Elizabeth Narvaez Toro (Líder de Seguimiento y Evaluación)
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Problema y objetivos propuestos}
+~\textbf{Problema estadístico:}
+\begin{itemize}
+\justifying
+\item ¿Es posible diseñar un plan de muestreo adecuado y asequible que permita la detección temprana de estas enfermedades en los cítricos?
+\item ¿Es posible estimar la cantidad de plantas infectadas en los lotes a partir del plan de muestreo diseñado?
+\end{itemize}
+~\textbf{Objetivos:}
+\begin{itemize}
+\justifying
+\item Objetivo General
+~\\Diseñar y validar un plan de muestreo para aceptación y rechazo de lotes de cítricos en viveros del Valle del Cauca que permita estimar la cantidad de plantas infectadas con el virus de la tristeza en el lote.
+\item Objetivos Específicos
+\begin{itemize}
+\item[-]Proponer y diseñar diferentes tipos de muestreo tipo aceptación/rechazo para lotes de cítricos en viveros del Valle del Cauca.
+\item[-]Validar los diseños muéstrales por medio de simulación teniendo en cuenta confianza y costo del muestreo.
+\item[-]Estimar la cantidad de plantas infectadas con el virus de la tristeza.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Antecedentes}
+\textbf{Antecedentes Contextuales}
+\begin{itemize}
+\justifying
+\item[1.]Vidal, E. (2010). Epidemiología de Plum pox virus y citrus tristeza virus en bloques de plantas de vivero. Métodos de control (Tesis doctoral). Universitat Politécnica de Valencia, Valencia, España.
+\item[2.]Pérez,A. , Mora, B. , León, M. , García, J. \& Abad, P. (2012). Enfermedades causadas por Phytophthora en viveros de plantas ornamentales (Artículo). Universitat Politécnica de Valencia, Valencia, España. Bol. San. Veg. Plagas, 38: 143-156.
+\item[3.]Parke, J. L., Knaus, B. J., Fieland, V. J., Lewis, C., and Grünwald, N. J.
+2014. Phytophthora community structure analyses in Oregon nurseries
+inform systems approaches to disease management. Phytopathology
+104:1052-1062.
+\item[4.]Caribbean food crops society. (2008).El Virus de la Tristeza de los Citricos (CTV) en Plantaciones Comerciales y Viveros
+de la Repûblica Dominicana.(Plenary Session and Oral Presentations). University of Florida.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Antecedentes}
+\begin{itemize}
+\item[5.]Melgara,(2018).Ocurrencia de Huanglongbing (Candidatus Liberibacter asiaticus) y su vector [Diaphorina citri Kuwayama (Hemiptera: Liviidae)] en viveros de cítricos de Masaya.(Trabajo de Graduación, MAESTRÍA EN SANIDAD VEGETAL).UNIVERSIDAD NACIONAL AGRARIA
+FACULTAD DE AGRONOMIA
+\end{itemize}
+\textbf{Antecedente estadísticos}
+\begin{itemize}
+\justifying
+\item[1.]Abad Corpa, E. , Leal Llopis, J. , Paredes Sidrach de Cardona, A. \& García Palomares, A. (2004). Monitorización del cumplimiento del protocolo de mantenimiento de la cateterización venosa mediante el método LQAS (Artículo). Universidad de Murcia, España. Revista electrónica semestral de enfermería.
+\item[2.] Tawfik, Y. , Hoque, S. \&  Siddiqi, M. (2001). Using lot quality assurance sampling to improve immunization coverage in Bangladesh (Artículo). Bulletin of the world health organization, 79.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+\item[3.]José A Andreo, Matilde Barrio, Rosa M Ramos, Miguel Torralba, Faustino Herrero \& Pedro J Saturno. (2000). Evaluación, mejora y monitorización de la adecuación de ingreso y estancia en Medicina Interna con el muestreo de aceptación de lotes (Artículo). Instituto nación de salud pública, México. ResearchGate.
+\item[4.]Mark Myatt, Hans Limburg, Darwin Minassian \& Damson Katyola. (2003). Field trial of applicability of lot quality assurance sampling survey method for rapid assessment of prevalence of active tracoma. (Artículo). Bulletin of the world health organization, 81.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Marco Teórico}
+~\\El marco teórico está compuesto por algunas definiciones y teorías tanto contextuales como estadísticas necesarias en la investigación.
+~\\\textbf{Marco conceptual:}
+\begin{itemize}
+\item Vivero
+\item Lote
+\item Plaga
+\item Prueba
+\item Virus de la tristeza
+\item Huanglongbing(HLB)
+\item Leprosis
+\item Exocortis
+\end{itemize}
+\textbf{Marco Estadístico:}
+\begin{itemize}
+\item Muestreo
+\item Muestreo probabilístico
+\item Muestreo Aleatorio Simple (MAS)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Marco Teórico}
+\begin{itemize}
+\item Muestreo sistemático
+\item Muestreo estratificado
+\item Muestreo secuencial
+\item Muestreo por conglomerados
+\item Muestreo no probabilístico
+\item Muestreo de conveniencia
+\item Muestreo arbitrario
+\item Muestreo selectivo o dirigido
+\item Muestreo de aceptación
+\end{itemize}
+\end{frame}
+
+
+\end{document}

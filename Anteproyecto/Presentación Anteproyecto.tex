@@ -296,15 +296,48 @@ $$H_a:La \; calidad \; del \; lote \; es \; mala$$
 \item Muestreo por atributos: cuando en la inspección los artículos se dividen en defectuosos y en no defectuosos, según cumplan con un conjunto de requerimientos.
 \item Muestreo por variables: cuando en la inspección se mide una variable cuantitativa: longitudes, pesos... y se evalúa la distancia entre dicha cantidad y la requerida en las especificaciones.
 \end{itemize}
+~\\En el muestreo de aceptación se utilizan principalmente tres distribuciones de probabilidad dependiendo del tamaño del lote(grande o pequeño), las distribuciones utilizadas son la Hipergeométrica, la Poisson y la Binomial.
 \end{frame}
 
 \begin{frame}
 \frametitle{Marco Teórico}
-
+\begin{itemize}
+\item Distribución hipergeométrica:La distribución hipergeométrica es fundamental para gran parte del muestreo de aceptación. Es aplicable cuando se muestrea una característica de atributo de un lote finito ó pequeño sin reemplazo. Su función de probabilidad es:
+$$f(x)=\frac{\binom{N_p}{x}\binom{N_q}{n-x}}{\binom{N}{n}}$$
+~\\ Donde; 
+~\\ N es el tamaño del lote, $N>0$
+~\\ p es la proporción defectuosa en el lote, $p=0, 1/N, 2/N, \cdots , 1$
+~\\ q es la proporción efectiva en el lote, $q = 1 – p$
+~\\ n es el tamaño de la muestra, $n = 1, 2, …, N$
+~\\ x es el número de ocurrencias, $x = 0, 1, 2, …, n$
+\end{itemize}
 \end{frame}
 
 \begin{frame}
 \frametitle{Marco Teórico}
+\begin{itemize}
+\item Distribución binomial: Es la distribución más utilizada en el muestreo de aceptación. Complementa la hipergeométrica en el sentido de que se emplea al muestrear una característica de atributo de un lote (o proceso) infinito ó grande, o un lote finito cuando se toma una muestra con reemplazo. Su función de probabilidad es:
+$$f(x)=\binom{n}{x} \; p^x \; (1-p)^{n-x}=\binom{n}{x} \; p^x \; q^{n-x}$$
+~\\ Donde; 
+~\\ n es el tamaño de la muestra, $n>0$
+~\\ p es la proporción defectuosa, $0\leq p \leq 1$
+~\\ q es la proporción efectiva, $q = 1 – p$
+~\\ x es el número de ocurrencias, $x = 0, 1, 2, …, n$
+\end{itemize}
+\end{frame}
 
+\begin{frame}
+\frametitle{Marco Teórico}
+\begin{itemize}
+\item Distribución poisson: La distribución de Poisson se utiliza para calcular las características de los planes de muestreo, que especifican un número dado de defectos por unidad, como el número de remaches defectuosos en el ala de un avión o el número de piedras permitido en un pedazo de vidrio de un tamaño determinado. El parámetro en la distribución de Poisson es simplemente $\mu$. Su función de probabilidad es:
+$$f(x)=\frac{{\mu}^x \; e^{-\mu}}{x!}$$
+~\\ Donde; 
+~\\ $\mu$ es el número medio de defectos, $\mu>0$
+~\\ x es el número de ocurrencias, $x=0,1,2,\cdots$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodología}
 \end{frame}
 \end{document}
