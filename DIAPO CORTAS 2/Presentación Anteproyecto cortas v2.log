@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  2 FEB 2019 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  2 FEB 2019 13:48
 entering extended mode
 **"./Presentación Anteproyecto cortas v2.tex"
 ("Presentación Anteproyecto cortas v2.tex"
@@ -709,7 +709,7 @@ emerounded.sty)
 (C:\Users\KEVINSTEVEN\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerouterth
 emeinfolines.sty))
 (C:\Users\KEVINSTEVEN\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamercolorth
-emedove.sty) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+emeseahorse.sty) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks43
 \inpenc@posthook=\toks44
@@ -995,7 +995,11 @@ line 163.
 thkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [6
+)
+Overfull \vbox (3.2269pt too high) detected at line 163
+ []
+
+[6
 
 ] [7
 
@@ -1032,22 +1036,21 @@ has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18245 strings out of 492946
- 349254 string characters out of 3135510
- 445594 words of memory out of 3000000
- 21684 multiletter control sequences out of 15000+200000
- 11347 words of font info for 41 fonts, out of 3000000 for 9000
+ 18237 strings out of 492946
+ 349141 string characters out of 3135510
+ 445949 words of memory out of 3000000
+ 21677 multiletter control sequences out of 15000+200000
+ 11053 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,17n,55p,824b,801s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,17n,59p,824b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "Presentación Anteproyecto cortas v2.pdf" (10 pages, 97953 b
+X 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+Output written on "Presentación Anteproyecto cortas v2.pdf" (10 pages, 88590 b
 ytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
