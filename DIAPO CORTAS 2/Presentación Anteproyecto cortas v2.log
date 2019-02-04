@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  2 FEB 2019 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  4 FEB 2019 14:40
 entering extended mode
 **"./Presentación Anteproyecto cortas v2.tex"
 ("Presentación Anteproyecto cortas v2.tex"
@@ -960,60 +960,62 @@ LaTeX Info: Redefining \selectfont on input line 33.
 
 {C:/Users/KEVINSTEVEN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
+] [3
+
 ]
-Underfull \hbox (badness 2556) in paragraph at lines 83--83
+Underfull \hbox (badness 2556) in paragraph at lines 91--91
 []\OT1/cmss/m/n/10.95 Proponer y di-se~nar di-fe-ren-tes ti-pos de mues-treo ti
 -po acep-ta-
  []
 
-[3
+[4
 
 ]
-Underfull \hbox (badness 1210) in paragraph at lines 97--97
+Underfull \hbox (badness 1210) in paragraph at lines 105--105
 []\OT1/cmss/m/n/10.95 Enfermedades cau-sa-das por Phy-topht-ho-ra en vi-ve-ros 
 de plan-tas
  []
 
-[4
+[5
 
-] [5
+] [6
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 163.
+LaTeX Font Info:    Try loading font information for U+msa on input line 171.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 163.
+LaTeX Font Info:    Try loading font information for U+msb on input line 171.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 163.
+line 171.
 
 (C:\Users\KEVINSTEVEN\AppData\Roaming\MiKTeX\2.9\tex/latex/sansmathaccent\ot1ma
 thkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \vbox (3.2269pt too high) detected at line 163
+Overfull \vbox (3.2269pt too high) detected at line 171
  []
 
-[6
+[7
 
-] [7
+] [8
 
 ] ("Presentación Anteproyecto cortas v2.bbl"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8
+ [9
 
  <C:/Users/KEVINSTEVEN/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonar
 ticle.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9])
-[10]
+ [10])
+[11]
 \tf@nav=\write6
 \openout6 = `"Presentación Anteproyecto cortas v2.nav"'.
 
@@ -1023,34 +1025,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `"Presentación Anteproyecto cortas v2.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
  ("Presentación Anteproyecto cortas v2.aux"
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `"Presentación Anteproyecto cortas v2".out' 
 has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18237 strings out of 492946
- 349141 string characters out of 3135510
- 445949 words of memory out of 3000000
- 21677 multiletter control sequences out of 15000+200000
+ 18242 strings out of 492946
+ 349194 string characters out of 3135510
+ 445953 words of memory out of 3000000
+ 21680 multiletter control sequences out of 15000+200000
  11053 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,17n,59p,824b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,17n,59p,943b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "Presentación Anteproyecto cortas v2.pdf" (10 pages, 88590 b
+Output written on "Presentación Anteproyecto cortas v2.pdf" (11 pages, 91537 b
 ytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
