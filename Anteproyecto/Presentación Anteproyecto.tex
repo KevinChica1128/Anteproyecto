@@ -13,6 +13,13 @@
 \institute{Universidad del Valle}
 \title{Diseño y validación de muestreo de cítricos para detección de enfermedades en viveros del Valle del Cauca}
 
+\newcommand\Wider[2][3em]{%
+\makebox[\linewidth][c]{%
+  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+  \raggedright#2
+  \end{minipage}%
+  }%
+}
 %\setbeamercovered{transparent} 
 %\setbeamertemplate{navigation symbols}{} 
 %\logo{} 
@@ -59,7 +66,6 @@
 \begin{itemize}
 \justifying
 \item ¿Es posible diseñar un plan de muestreo adecuado y asequible que permita la detección temprana de estas enfermedades en los cítricos?
-\item ¿Es posible estimar la cantidad de plantas infectadas en los lotes a partir del plan de muestreo diseñado?
 \end{itemize}
 \end{block}
 \end{frame}
@@ -69,7 +75,7 @@
 \begin{frame}
 \frametitle{Justificación}
 \justifying
-La agricultura siempre será de gran importancia para el desarrollo de un país, de aquí que la industria de los cítricos requiera normas claras en cuanto a la producción evitando un posible desabastecimiento del producto por una epidemia en plantas de cítricos. Nuestro rol como estadísticos es de vital prioridad para lograr verificar con una certeza alta que la producción esté libre de cualquier plaga y mitigar en gran medida posibles perdidas en toda la industria por lotes infectados, logrando también que tanto consumidores como productores se vean beneficiados.
+Nuestro rol como estadísticos es de vital importancia para lograr verificar que la producción esté libre de cualquier plaga y mitigar en gran medida posibles pérdidas en toda la industria por lotes infectados, logrando que productores y consumidores se ven beneficiados.
 \end{frame}
 
 \section{Objetivos}
@@ -78,14 +84,14 @@ La agricultura siempre será de gran importancia para el desarrollo de un país,
 \begin{frame}
 \frametitle{Objetivos propuestos}
 \begin{block}{Objetivo general}
-Diseñar y validar un plan de muestreo para aceptación y rechazo de lotes de cítricos en viveros del Valle del Cauca que permita estimar la cantidad de plantas infectadas con el virus de la tristeza en el lote.
+Diseñar y validar un plan de muestreo para aceptación y rechazo de lotes de cítricos en viveros del Valle del Cauca que permita estimar la cantidad de plantas infectadas en el lote.
 \end{block}
 \begin{block}{Objetivos específicos}
 \begin{itemize}
 \justifying
 \item[-]Proponer y diseñar diferentes tipos de muestreo tipo aceptación/rechazo para lotes de cítricos en viveros del Valle del Cauca.
 \item[-]Validar los diseños muéstrales por medio de simulación teniendo en cuenta confianza y costo del muestreo.
-\item[-]Estimar la cantidad de plantas infectadas con el virus de la tristeza.
+\item[-]Estimar la cantidad de plantas infectadas en el lote.
 \end{itemize}
 \end{block}
 \end{frame}
@@ -348,6 +354,33 @@ $$f(x)=\frac{{\mu}^x \; e^{-\mu}}{x!}$$
 \end{itemize}
 \end{block}
 \end{frame}
+
+\section{Cronograma}
+\begin{frame}
+\frametitle{Cronograma}
+\Wider[4em]{
+\begin{figure}[!h]
+        \includegraphics[width=12.4cm]{IMAGENES/CR1.png}
+        \label{figura1}
+\end{figure}
+\begin{figure}[!h]
+        \includegraphics[width=12.4cm]{IMAGENES/CR2.png}
+        \label{figura1}
+\end{figure}
+
+}
+\end{frame}
+
+\section{Presupuesto}
+\begin{frame}
+\frametitle{Presupuesto}
+\begin{figure}[!h]
+        \includegraphics[width=8cm]{IMAGENES/PR.png}
+        \label{figura1}
+\end{figure}
+\end{frame}
+
+
 
 \bibliographystyle{plain}
   \bibliography{references}
