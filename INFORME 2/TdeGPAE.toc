@@ -1,0 +1,26 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{\es@scroman {vii}}{Doc-Start}
+\babel@toc {spanish}{}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de Figuras}{\es@scroman {xi}}{chapter*.2}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de Tablas}{\es@scroman {xiii}}{chapter*.3}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de s\'{\i }mbolos}{\es@scroman {xiv}}{chapter*.4}
+\contentsline {chapter}{\numberline {1}Introducci\'{o}n}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Planteamiento de la investigaci\'{o}n}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problema Estad\'{i}stico}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Justificaci\'{o}n}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Objetivos}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{\nonumberline Objetivo General}{5}{section*.8}
+\contentsline {subsubsection}{\nonumberline Objetivos Espec\'{i}ficos}{6}{section*.9}
+\contentsline {chapter}{\numberline {3}Antecedentes}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Estimation and Inference for $2^{k-p}$ Experiments with Beta Response}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Mendoza2017 no va}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}Marco Te\'{o}rico}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Distribuci\'{o}n Beta}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}Metodo de Bayes}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}Cadenas de Markov y M\'{e}todo Montecarlo (MCMC)}{8}{section.4.3}
+\contentsline {chapter}{\numberline {5}Metodolog\'{i}a}{9}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusiones y recomendaciones}{10}{chapter.6}
+\contentsline {section}{\numberline {6.1}Conclusiones}{10}{section.6.1}
+\contentsline {section}{\numberline {6.2}Recomendaciones}{10}{section.6.2}
+\contentsline {chapter}{\numberline {A}Anexo: Nombrar el anexo A de acuerdo con su contenido}{11}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Anexo: Nombrar el anexo B de acuerdo con su contenido}{12}{appendix.Alph2}
+\contentsline {chapter}{\numberline {C}Anexo: Nombrar el anexo C de acuerdo con su contenido}{13}{appendix.Alph3}
