@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.15)  8 FEB 2019 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  20 FEB 2019 19:54
 entering extended mode
 **./HojaTituloPAE.tex
 (HojaTituloPAE.tex
-LaTeX2e <2017-04-15>
-Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-12-01>
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -131,7 +130,7 @@ Overfull \hbox (12.77782pt too wide) in paragraph at lines 6--8
 ! Undefined control sequence.
 <recently read> \huge 
                       
-l.13 ...os Parametros De La Distribuci\'{o}n Beta}
+l.13 ...fermedades en viveros del Valle del Cauca}
                                                   \\[5.0cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -140,98 +139,118 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (50.99416pt too wide) in paragraph at lines 13--13
- []\OT1/cmr/bx/n/10 Propuesta 
+Overfull \hbox (33.95953pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/bx/n/10 Dise~no 
  []
 
 
-Overfull \hbox (23.45818pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Para 
+Overfull \hbox (6.06941pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 y 
  []
 
 
-Overfull \hbox (41.16647pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Obtener 
+Overfull \hbox (18.0485pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 val- 
  []
 
 
-Overfull \hbox (20.38321pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Dis- 
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 i- 
  []
 
 
-Overfull \hbox (29.01375pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 tribu- 
+Overfull \hbox (32.42342pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 dacion 
  []
 
 
-Overfull \hbox (30.25122pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 ciones 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (8.6944pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 A 
+Overfull \hbox (45.68866pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 muestreo 
  []
 
 
-Overfull \hbox (19.62491pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Pri- 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (13.6805pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 ori 
+Overfull \hbox (36.10536pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 ctricos 
  []
 
 
-Overfull \hbox (23.45818pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Para 
+Overfull \hbox (22.3054pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 para 
  []
 
 
-Overfull \hbox (17.20267pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Los 
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 de- 
  []
 
 
-Overfull \hbox (46.61778pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Paramet- 
+Overfull \hbox (35.29843pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 teccion 
  []
 
 
-Overfull \hbox (15.02214pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 ros 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (14.09021pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 De 
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 en- 
  []
 
 
-Overfull \hbox (12.50685pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 La 
+Overfull \hbox (17.3541pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 fer- 
  []
 
 
-Overfull \hbox (20.38321pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Dis- 
+Overfull \hbox (43.02892pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 medades 
  []
 
 
-Overfull \hbox (45.62477pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 tribucion 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 en 
  []
 
 
-Overfull \hbox (23.51375pt too wide) in paragraph at lines 13--13
- \OT1/cmr/bx/n/10 Beta 
+Overfull \hbox (35.30676pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 viveros 
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 del 
+ []
+
+
+Overfull \hbox (24.98596pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 Valle 
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 del 
+ []
+
+
+Overfull \hbox (30.9859pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 Cauca 
  []
 
 ! Undefined control sequence.
 l.16 \Large
-           \textbf{Luis Gabriel Arroyo Bravo}\\
+           \textbf{Kevin Steven Garc\'{i}a Chica}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -239,35 +258,30 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (21.03598pt too wide) in paragraph at lines 16--16
- []\OT1/cmr/bx/n/10 Luis 
+Overfull \hbox (29.93735pt too wide) in paragraph at lines 16--16
+ []\OT1/cmr/bx/n/10 Kevin 
  []
 
 
-Overfull \hbox (37.41646pt too wide) in paragraph at lines 16--16
- \OT1/cmr/bx/n/10 Gabriel 
+Overfull \hbox (33.5415pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 Steven 
  []
 
 
-Overfull \hbox (17.26381pt too wide) in paragraph at lines 16--16
- \OT1/cmr/bx/n/10 Ar- 
+Overfull \hbox (33.26367pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 Garca 
  []
 
 
-Overfull \hbox (21.66656pt too wide) in paragraph at lines 16--16
- \OT1/cmr/bx/n/10 royo 
- []
-
-
-Overfull \hbox (29.68733pt too wide) in paragraph at lines 16--16
- \OT1/cmr/bx/n/10 Bravo 
+Overfull \hbox (28.5901pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 Chica 
  []
 
 ! Undefined control sequence.
 <recently read> \Large 
                        
 l.17 \Large
-           \textbf{Fabian Alejandro Lasso Balanta}\\[4.0cm]
+           \textbf{Jose Alejandro Vargas Franco}\\[4.0cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -275,8 +289,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (33.43033pt too wide) in paragraph at lines 17--17
- []\OT1/cmr/bx/n/10 Fabian 
+Overfull \hbox (21.50127pt too wide) in paragraph at lines 17--17
+ []\OT1/cmr/bx/n/10 Jose 
  []
 
 
@@ -295,18 +309,18 @@ Overfull \hbox (16.87492pt too wide) in paragraph at lines 17--17
  []
 
 
-Overfull \hbox (27.32896pt too wide) in paragraph at lines 17--17
- \OT1/cmr/bx/n/10 Lasso 
+Overfull \hbox (21.8957pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 Var- 
  []
 
 
-Overfull \hbox (20.79848pt too wide) in paragraph at lines 17--17
- \OT1/cmr/bx/n/10 Bal- 
+Overfull \hbox (15.87627pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 gas 
  []
 
 
-Overfull \hbox (21.72206pt too wide) in paragraph at lines 17--17
- \OT1/cmr/bx/n/10 anta 
+Overfull \hbox (33.85397pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 Franco 
  []
 
 ! Undefined control sequence.
@@ -447,7 +461,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{C:/Users/D4RK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/KEVINSTEVEN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Overfull \hbox (20.0pt too wide) in paragraph at lines 29--29
 [] 
  []
@@ -455,7 +469,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 29--29
 ! Undefined control sequence.
 <recently read> \huge 
                       
-l.34 ...os Parametros De La Distribuci\'{o}n Beta}
+l.34 ...fermedades en viveros del Valle del Cauca}
                                                   \\[3.5cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -464,98 +478,118 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (50.99416pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Propuesta 
+Overfull \hbox (33.95953pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 Dise~no 
  []
 
 
-Overfull \hbox (23.45818pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Para 
+Overfull \hbox (6.06941pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 y 
  []
 
 
-Overfull \hbox (41.16647pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Obtener 
+Overfull \hbox (18.0485pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 val- 
  []
 
 
-Overfull \hbox (20.38321pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Dis- 
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 i- 
  []
 
 
-Overfull \hbox (29.01375pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 tribu- 
+Overfull \hbox (32.42342pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 dacion 
  []
 
 
-Overfull \hbox (30.25122pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 ciones 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (8.6944pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 A 
+Overfull \hbox (45.68866pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 muestreo 
  []
 
 
-Overfull \hbox (19.62491pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Pri- 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (13.6805pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 ori 
+Overfull \hbox (36.10536pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 ctricos 
  []
 
 
-Overfull \hbox (23.45818pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Para 
+Overfull \hbox (22.3054pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 para 
  []
 
 
-Overfull \hbox (17.20267pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Los 
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 de- 
  []
 
 
-Overfull \hbox (46.61778pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Paramet- 
+Overfull \hbox (35.29843pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 teccion 
  []
 
 
-Overfull \hbox (15.02214pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 ros 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 de 
  []
 
 
-Overfull \hbox (14.09021pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 De 
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 en- 
  []
 
 
-Overfull \hbox (12.50685pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 La 
+Overfull \hbox (17.3541pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 fer- 
  []
 
 
-Overfull \hbox (20.38321pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Dis- 
+Overfull \hbox (43.02892pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 medades 
  []
 
 
-Overfull \hbox (45.62477pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 tribucion 
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 en 
  []
 
 
-Overfull \hbox (23.51375pt too wide) in paragraph at lines 34--34
- \OT1/cmr/bx/n/10 Beta 
+Overfull \hbox (35.30676pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 viveros 
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 del 
+ []
+
+
+Overfull \hbox (24.98596pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 Valle 
+ []
+
+
+Overfull \hbox (14.8541pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 del 
+ []
+
+
+Overfull \hbox (30.9859pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/bx/n/10 Cauca 
  []
 
 ! Undefined control sequence.
 l.37 \Large
-           \textbf{Luis Gabriel Arroyo Bravo}\\
+           \textbf{Kevin Steven Garc\'{i}a Chica}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -563,35 +597,30 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (21.03598pt too wide) in paragraph at lines 37--37
- []\OT1/cmr/bx/n/10 Luis 
+Overfull \hbox (29.93735pt too wide) in paragraph at lines 37--37
+ []\OT1/cmr/bx/n/10 Kevin 
  []
 
 
-Overfull \hbox (37.41646pt too wide) in paragraph at lines 37--37
- \OT1/cmr/bx/n/10 Gabriel 
+Overfull \hbox (33.5415pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/bx/n/10 Steven 
  []
 
 
-Overfull \hbox (17.26381pt too wide) in paragraph at lines 37--37
- \OT1/cmr/bx/n/10 Ar- 
+Overfull \hbox (33.26367pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/bx/n/10 Garca 
  []
 
 
-Overfull \hbox (21.66656pt too wide) in paragraph at lines 37--37
- \OT1/cmr/bx/n/10 royo 
- []
-
-
-Overfull \hbox (29.68733pt too wide) in paragraph at lines 37--37
- \OT1/cmr/bx/n/10 Bravo 
+Overfull \hbox (28.5901pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/bx/n/10 Chica 
  []
 
 ! Undefined control sequence.
 <recently read> \Large 
                        
 l.38 \Large
-           \textbf{Fabian Alejandro Lasso Balanta}\\[3.0cm]
+           \textbf{Jose Alejandro Vargas Franco}\\[3.0cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -599,8 +628,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (33.43033pt too wide) in paragraph at lines 38--38
- []\OT1/cmr/bx/n/10 Fabian 
+Overfull \hbox (21.50127pt too wide) in paragraph at lines 38--38
+ []\OT1/cmr/bx/n/10 Jose 
  []
 
 
@@ -619,18 +648,18 @@ Overfull \hbox (16.87492pt too wide) in paragraph at lines 38--38
  []
 
 
-Overfull \hbox (27.32896pt too wide) in paragraph at lines 38--38
- \OT1/cmr/bx/n/10 Lasso 
+Overfull \hbox (21.8957pt too wide) in paragraph at lines 38--38
+ \OT1/cmr/bx/n/10 Var- 
  []
 
 
-Overfull \hbox (20.79848pt too wide) in paragraph at lines 38--38
- \OT1/cmr/bx/n/10 Bal- 
+Overfull \hbox (15.87627pt too wide) in paragraph at lines 38--38
+ \OT1/cmr/bx/n/10 gas 
  []
 
 
-Overfull \hbox (21.72206pt too wide) in paragraph at lines 38--38
- \OT1/cmr/bx/n/10 anta 
+Overfull \hbox (33.85397pt too wide) in paragraph at lines 38--38
+ \OT1/cmr/bx/n/10 Franco 
  []
 
 ! Undefined control sequence.
@@ -1130,39 +1159,47 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no L in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no i in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no B in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (66.06364pt too wide) in paragraph at lines 85--88
 []\OT1/cmr/bx/n/10 Resumen
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 85--88
-\/cmr/m/n/10 o 
  []
 
 ! Undefined control sequence.
@@ -1245,22 +1282,24 @@ and I'll forget about whatever was undefined.
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -1357,7 +1396,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 <write> ...to\@tempdima {\hfil }Resumen}{\thepage 
-                                                  }}
+                                                  }\protected@file@percent }
 l.96 \newpage
              {\pagestyle{empty}\cleardoublepage}
 The control sequence at the end of the top line
@@ -1366,8 +1405,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-\@writefile{toc}{\contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{}}
-
+\@writefile{toc}{\contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{}\
+protected@file@percent }
 ])
 ! Emergency stop.
 <*> ./HojaTituloPAE.tex
@@ -1376,11 +1415,11 @@ and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 31 strings out of 493303
- 512 string characters out of 3130219
- 55826 words of memory out of 3000000
- 3680 multiletter control sequences out of 15000+200000
+ 30 strings out of 492946
+ 448 string characters out of 3135510
+ 58619 words of memory out of 3000000
+ 4023 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,4n,16p,156b,161s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18i,4n,16p,183b,161s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
