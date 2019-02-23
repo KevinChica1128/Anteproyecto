@@ -14,6 +14,6 @@
 \beamer@sectionintoc {7}{Marco te\IeC {\'o}rico}{11}{0}{7}
 \beamer@subsectionintoc {7}{1}{Marco conceptual}{11}{0}{7}
 \beamer@subsectionintoc {7}{2}{Marco estad\IeC {\'\i }stico}{14}{0}{7}
-\beamer@sectionintoc {8}{Metodolog\IeC {\'\i }a}{25}{0}{8}
-\beamer@sectionintoc {9}{Cronograma}{26}{0}{9}
-\beamer@sectionintoc {10}{Presupuesto}{27}{0}{10}
+\beamer@sectionintoc {8}{Metodolog\IeC {\'\i }a}{26}{0}{8}
+\beamer@sectionintoc {9}{Cronograma}{27}{0}{9}
+\beamer@sectionintoc {10}{Presupuesto}{28}{0}{10}
