@@ -1,0 +1,37 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Resumen}{\es@scroman {vii}}{Doc-Start}% 
+\babel@toc {spanish}{}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de Figuras}{\es@scroman {xii}}{chapter*.2}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de Tablas}{\es@scroman {xiv}}{chapter*.3}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Lista de s\'{\i }mbolos}{\es@scroman {xv}}{chapter*.4}% 
+\contentsline {chapter}{\numberline {1}Introducci\'{o}n}{2}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Estructura del documento}{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Subt\'{\i }tulos nivel 2}{4}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Subt\'{\i }tulos nivel 3}{4}{subsection.2.1.1}% 
+\contentsline {chapter}{\numberline {3}Bibliograf\'{\i }a, Figuras, Tablas y Ecuaciones}{5}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Citas bibliogr\'{a}ficas}{5}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Presentaci\'{o}n y citaci\'{o}n de figuras}{6}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Presentaci\'{o}n y citaci\'{o}n de tablas}{7}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Consideraciones adicionales para el manejo de figuras, tablas y ecuaciones}{8}{subsection.3.3.1}% 
+\contentsline {chapter}{\numberline {4}Normatividad sobre el trabajo de grado}{10}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Reglamento estudiantil}{10}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}De los trabajos de grado}{10}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Reglamentaciones por facultad, Distinciones}{11}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Duraci\'{o}n}{11}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Exenci\'{o}n de matr\'{\i }cula durante la continuaci\'{o}n de trabajo de grado}{11}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Condiciones de grado}{11}{subsection.4.2.4}% 
+\contentsline {section}{\numberline {4.3}Reglamentaci\'{o}n en la Facultad de Ingenier\'{\i }a: Resoluci\'{o}n No 074 de junio 21 de 2011}{12}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Resoluci\'{o}n No 074 de junio 21 de 2011, Consejo de Facultad}{12}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Trabajo de Investigaci\'{o}n e innovaci\'{o}n}{12}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}El informe final}{13}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Asignaturas que conforman el trabajo de grado en programas de ingenier\'{\i }a}{13}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Asignaturas que conforman el trabajo de grado en el programa acad\'{e}mico de Estad\'{\i }stica}{13}{subsection.4.3.5}% 
+\contentsline {section}{\numberline {4.4}Distinciones en Ingenier\'{\i }a: Resoluci\'{o}n No 085 de Mayo 26 de 2009}{13}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Resoluci\'{o}n No 085 de 2009, Consejo de Facultad}{13}{subsection.4.4.1}% 
+\contentsline {section}{\numberline {4.5}Recomendaciones}{14}{section.4.5}% 
+\contentsline {chapter}{\numberline {5}Cap\'{\i }tulo...}{15}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Conclusiones y recomendaciones}{16}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Conclusiones}{16}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Recomendaciones}{16}{section.6.2}% 
+\contentsline {chapter}{\numberline {A}Anexo: Nombrar el anexo A de acuerdo con su contenido}{17}{appendix.Alph1}% 
+\contentsline {chapter}{\numberline {B}Anexo: Nombrar el anexo B de acuerdo con su contenido}{18}{appendix.Alph2}% 
+\contentsline {chapter}{\numberline {C}Anexo: Nombrar el anexo C de acuerdo con su contenido}{19}{appendix.Alph3}% 

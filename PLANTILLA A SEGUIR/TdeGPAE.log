@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  23 FEB 2019 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  3 FEB 2019 16:16
 entering extended mode
 **./TdeGPAE.tex
 (TdeGPAE.tex
@@ -499,7 +499,7 @@ LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (Tab_Simbolos/TabSimbolosPAE.aux)
 (Declaracion/DeclaracionPAE.aux) (Introduccion/IntroduccionPAE.aux)
-(Kap2/Cap2.aux) (Kap3/Cap3.aux) (Kap4/Cap4.aux)
+(Kap2/Cap2.aux) (Kap3/Cap3.aux) (Kap4/Cap4.aux) (Kap5/Cap5.aux)
 (Conclusiones_Recomendaciones/Conclusiones_RecomendacionesPAE.aux)
 (Anexos/AnexosPAE.aux))
 \openout1 = `TdeGPAE.aux'.
@@ -594,7 +594,7 @@ Package epstopdf Info: Source file: <HojaTitulo/Fig_HojaTitulo/LogoUV.eps>
 (epstopdf)                    size: 79497 bytes
 (epstopdf)             Output file: <HojaTitulo/Fig_HojaTitulo/LogoUV-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-11-22 09:07:50
+(epstopdf)                    date: 2017-11-22 09:07:48
 (epstopdf)                    size: 11307 bytes
 (epstopdf)             Command: <epstopdf --outfile=HojaTitulo/Fig_HojaTitulo/L
 ogoUV-eps-converted-to.pdf HojaTitulo/Fig_HojaTitulo/LogoUV.eps>
@@ -616,60 +616,75 @@ aTitulo/Fig_HojaTitulo/LogoUV-eps-converted-to.pdf>] [2
 
 
 ] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 4001) in paragraph at lines 63--70
+\OT1/cmr/m/n/10.95 Su uso es op-cio-nal y ca-da au-tor podra
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 63--70
+\OT1/cmr/m/n/10.95 de-ter-mi-nar la dis-tri-bu-cion del tex-to en la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 63--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 63--70
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [4]
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
@@ -680,32 +695,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--78
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 
  []
 
@@ -759,38 +764,56 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 21.
 Package tocbasic Info: Using my definition of `\numberline' on input line 22.
 Package tocbasic Info: Using my definition of `\numberline' on input line 23.
 Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 25.
+Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+[9
+
+
+]
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 31.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
 )
 \tf@toc=\write4
 \openout4 = `TdeGPAE.toc'.
 
- [9
-
-
-] (TdeGPAE.lof
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [10] (TdeGPAE.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
 \tf@lof=\write5
 \openout5 = `TdeGPAE.lof'.
 
- [10
+ [11
 
 ]
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
- [11] (TdeGPAE.lot
+ [12] (TdeGPAE.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
 \tf@lot=\write6
 \openout6 = `TdeGPAE.lot'.
 
- [12
+ [13
 
 ]
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [13]
+ [14]
 \openout2 = `Tab_Simbolos/TabSimbolosPAE.aux'.
 
 
@@ -809,13 +832,13 @@ Overfull \hbox (46.04037pt too wide) in alignment at lines 14--23
 [] [] [] [] 
  []
 
-[14
+[15
 
 
 ])
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [15]
+ [16]
 \openout2 = `Declaracion/DeclaracionPAE.aux'.
 
  (Declaracion/DeclaracionPAE.tex)
@@ -881,8 +904,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+)
+Underfull \hbox (badness 10000) in paragraph at lines 14--34
 
  []
 
@@ -890,66 +913,346 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
 
 
-])
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [3]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [4]
+] [3]
 \openout2 = `Kap2/Cap2.aux'.
 
  (Kap2/Cap2.tex
 chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+) [4
+
+
+
+]
+\openout2 = `Kap3/Cap3.aux'.
+
+ (Kap3/Cap3.tex
+chapter 3.
+
+Package natbib Warning: Citation `NTC1486' on page 5 undefined on input line 3.
+
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 3--4
+[]\OT1/cmr/m/n/12 La Nor-ma Tecni-ca Co-lom-bia-na NTC 1486 fi-ja la re-gla-me
+n-ta-cion na-cio-nal pa-ra la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Package natbib Warning: Citation `NTC5613' on page 5 undefined on input line 5.
+
+
+
+Package natbib Warning: Citation `Harvard:2008' on page 5 undefined on input li
+ne 5.
+
+
+Package natbib Warning: Citation `Natbib:2010' on page 5 undefined on input lin
+e 5.
+
+
+Package natbib Warning: Citation `Natbib:2010RS' on page 5 undefined on input l
+ine 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Package natbib Warning: Citation `Harvard:2008' on page 5 undefined on input li
+ne 15.
+
+
+Overfull \hbox (36.87979pt too wide) in paragraph at lines 25--25
+[]\OT1/cmtt/m/n/12 note = {ftp://ftp.tex.ac.uk/tex-archive/macros/latex/contrib
+/harvard/harvard.pdf},[] 
+ []
+
 [5
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
- [6]
-Underfull \hbox (badness 3724) in paragraph at lines 34--38
-[]\OT1/cmr/m/n/12 Muestreo se-lec-ti-vo o di-ri-gi-do: El mues-treo se-lec-ti-v
-o con-sis-te en se-lec-cio-nar
+
+Package natbib Warning: Citation `Harvard:2008' on page 6 undefined on input li
+ne 28.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
  []
 
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-[7]
-Underfull \hbox (badness 1102) in paragraph at lines 49--50
-\OT1/cmr/m/n/12 gran par-te del mues-treo de acep-ta-cion. Es apli-ca-ble cuan
--do se mues-trea una
+
+Package natbib Warning: Citation `Harvard:2008' on page 6 undefined on input li
+ne 31.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
  []
 
-LaTeX Info: Redefining \. on input line 65.
-LaTeX Info: Redefining \% on input line 65.
-[8]
-Underfull \hbox (badness 2119) in paragraph at lines 66--67
-[]\OT1/cmr/m/n/12 Distribucion pois-son: La dis-tri-bu-cion de Pois-son se ut
-i-li-za pa-ra cal-cu-lar las
+
+Package natbib Warning: Citation `Natbib:2010' on page 6 undefined on input lin
+e 33.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
  []
 
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
-[9])
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
- [10]
-\openout2 = `Kap3/Cap3.aux'.
 
- (Kap3/Cap3.tex
-chapter 3.
-) [11
+Package natbib Warning: Citation `R' on page 6 undefined on input line 39.
 
 
+Package natbib Warning: Citation `Sarkar:2008' on page 6 undefined on input lin
+e 41.
 
-]
+
+Package natbib Warning: Citation `Wood:2003' on page 6 undefined on input line 
+43.
+
+
+Package natbib Warning: Citation `Graybill:1976' on page 6 undefined on input l
+ine 45.
+
+
+Package natbib Warning: Citation `Draper:Smith:1998' on page 6 undefined on inp
+ut line 45.
+
+
+Package natbib Warning: Citation `Neter:1990' on page 6 undefined on input line
+ 45.
+
+
+Package natbib Warning: Citation `Seber:1977' on page 6 undefined on input line
+ 45.
+
+
+Package natbib Warning: Citation `Searle:1971' on page 6 undefined on input lin
+e 45.
+
+
+Package natbib Warning: Citation `Eubank:1999' on page 6 undefined on input lin
+e 47.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+Package epstopdf Info: Source file: <Kap3/Fig_Cap3/Costo_Total.eps>
+(epstopdf)                    date: 2012-10-07 10:32:58
+(epstopdf)                    size: 20708 bytes
+(epstopdf)             Output file: <Kap3/Fig_Cap3/Costo_Total-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-11-22 09:07:50
+(epstopdf)                    size: 12361 bytes
+(epstopdf)             Command: <epstopdf --outfile=Kap3/Fig_Cap3/Costo_Total-e
+ps-converted-to.pdf Kap3/Fig_Cap3/Costo_Total.eps>
+(epstopdf)             \includegraphics on input line 61.
+Package epstopdf Info: Output file is already uptodate.
+<Kap3/Fig_Cap3/Costo_Total-eps-converted-to.pdf, id=193, 578.16pt x 758.835pt>
+File: Kap3/Fig_Cap3/Costo_Total-eps-converted-to.pdf Graphic file (type pdf)
+<use Kap3/Fig_Cap3/Costo_Total-eps-converted-to.pdf>
+Package pdftex.def Info: Kap3/Fig_Cap3/Costo_Total-eps-converted-to.pdf  used o
+n input line 61.
+(pdftex.def)             Requested size: 231.2599pt x 303.52863pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
+[7 <./Kap3/Fig_Cap3/Costo_Total-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+[8])
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [9]
 \openout2 = `Kap4/Cap4.aux'.
 
  (Kap4/Cap4.tex
 chapter 4.
-) [12
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 18--24
+\OT1/cmr/m/n/12 El Tra-ba-jo de Gra-do pue-de orien-tar-se a la sis-te-ma-ti-za
+-cion de co-no-ci-mien-tos, a la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+[10
+
+
+
+]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [11]
+Underfull \hbox (badness 1024) in paragraph at lines 82--88
+\OT1/cmr/m/n/12 Academi-co de-fi-nira cuales asig-na-tu-ras adi-cio-na-les a
+l Tra-ba-jo de Gra-do de-bera
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 116--124
+[]\OT1/cmr/m/n/12 Presentacion for-mal del re-sul-ta-do de un pro-ce-so de ex-
+plo-ra-cion, des-crip-cion,
+ []
+
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+[13]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 178.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 178.
+)
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+ [14]
+\openout2 = `Kap5/Cap5.aux'.
+
+
+(Kap5/Cap5.tex
+chapter 5.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 2--38
+
+ []
+
+[15
 
 
 
@@ -957,7 +1260,7 @@ chapter 4.
 \openout2 = `Conclusiones_Recomendaciones/Conclusiones_RecomendacionesPAE.aux'.
 
  (Conclusiones_Recomendaciones/Conclusiones_RecomendacionesPAE.tex
-chapter 5.
+chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
@@ -968,7 +1271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-) [13
+) [16
 
 
 
@@ -996,7 +1299,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[14
+[17
 
 
 
@@ -1007,7 +1310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[15
+[18
 
 ]
 chapter C.
@@ -1036,26 +1339,28 @@ Underfull \hbox (badness 2790) in paragraph at lines 25--25
 []|\OT1/cmr/m/n/12 National Li-brary of Me-di-ci-ne (NLM)
  []
 
-[16
+[19
 
-]) [17] (TdeGPAE.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
- [18
+])
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [20]
+No file TdeGPAE.bbl.
 
+Package natbib Warning: There were undefined citations.
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
- (TdeGPAE.aux (HojaTitulo/HojaTituloPAE.aux)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+(TdeGPAE.aux (HojaTitulo/HojaTituloPAE.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
-
-(Tab_Simbolos/TabSimbolosPAE.aux) (Declaracion/DeclaracionPAE.aux)
-(Introduccion/IntroduccionPAE.aux) (Kap2/Cap2.aux) (Kap3/Cap3.aux)
-(Kap4/Cap4.aux)
+ (Tab_Simbolos/TabSimbolosPAE.aux)
+(Declaracion/DeclaracionPAE.aux) (Introduccion/IntroduccionPAE.aux)
+(Kap2/Cap2.aux) (Kap3/Cap3.aux) (Kap4/Cap4.aux) (Kap5/Cap5.aux)
 (Conclusiones_Recomendaciones/Conclusiones_RecomendacionesPAE.aux)
 (Anexos/AnexosPAE.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `TdeGPAE.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1065,33 +1370,36 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 10339 strings out of 492946
- 164449 string characters out of 3135510
+ 10408 strings out of 492946
+ 165533 string characters out of 3135510
  386744 words of memory out of 3000000
- 13930 multiletter control sequences out of 15000+200000
- 14280 words of font info for 53 fonts, out of 3000000 for 9000
+ 13959 multiletter control sequences out of 15000+200000
+ 16039 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,66p,9110b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,12n,66p,9110b,692s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TdeGPAE.pdf (33 pages, 258008 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb>
+Output written on TdeGPAE.pdf (36 pages, 311911 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
