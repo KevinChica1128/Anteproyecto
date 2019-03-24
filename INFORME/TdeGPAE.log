@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  23 MAR 2019 09:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  24 MAR 2019 16:47
 entering extended mode
 **./TdeGPAE.tex
 (TdeGPAE.tex
@@ -721,36 +721,36 @@ Class scrbook Warning: \float@addtolists detected!
 
 
 ]
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
- [3]
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
- [4]
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
- [5]
-Underfull \vbox (badness 2302) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
- [6])
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-
-[7]
+ [3]
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [4]
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [5]
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+ [6]
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [7])
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [8]
 \openout2 = `Kap2/Cap2.aux'.
 
  (Kap2/Cap2.tex
 chapter 2.
-[8
+[9
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- [9]
+ [10]
 Underfull \hbox (badness 3724) in paragraph at lines 33--37
 []\OT1/cmr/m/n/12 Muestreo se-lec-ti-vo o di-ri-gi-do: El mues-treo se-lec-ti-v
 o con-sis-te en se-lec-cio-nar
@@ -758,7 +758,7 @@ o con-sis-te en se-lec-cio-nar
 
 LaTeX Info: Redefining \. on input line 39.
 LaTeX Info: Redefining \% on input line 39.
-[10]
+[11]
 Underfull \hbox (badness 1102) in paragraph at lines 48--49
 \OT1/cmr/m/n/12 gran par-te del mues-treo de acep-ta-cion. Es apli-ca-ble cuan
 -do se mues-trea una
@@ -766,7 +766,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 48--49
 
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
-[11]
+[12]
 Underfull \hbox (badness 2119) in paragraph at lines 65--66
 []\OT1/cmr/m/n/12 Distribucion pois-son: La dis-tri-bu-cion de Pois-son se ut
 i-li-za pa-ra cal-cu-lar las
@@ -774,15 +774,15 @@ i-li-za pa-ra cal-cu-lar las
 
 LaTeX Info: Redefining \. on input line 80.
 LaTeX Info: Redefining \% on input line 80.
-[12])
+[13])
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
- [13]
+ [14]
 \openout2 = `Kap3/Cap3.aux'.
 
  (Kap3/Cap3.tex
 chapter 3.
-) [14
+) [15
 
 
 
@@ -809,28 +809,15 @@ Overfull \hbox (46.95103pt too wide) in paragraph at lines 7--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15
+ [16
 
 
 
-]
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...umn{1}{l}{\textbf{E. SERVICIOS TÉCNICOS}}
-                                                   &  \\
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-)
+])
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
- [16] (TdeGPAE.bbl
+
+[17] (TdeGPAE.bbl
 
 ! Class scrbook Error: undefined old font command `\bf'.
 
@@ -933,7 +920,7 @@ you should replace it, e.g., by `\normalfont \bfseries '.
 To make it work for now, you can use the already also deprecated class option
 `enabledeprecatedfontcommands'.
 
-[17
+[18
 
 
 ]
@@ -965,7 +952,7 @@ To make it work for now, you can use the already also deprecated class option
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [18]
+ [19]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 29.
  (TdeGPAE.aux (HojaTitulo/HojaTituloPAE.aux)
 LaTeX Info: Redefining \. on input line 26.
@@ -984,10 +971,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
  ) 
 Here is how much of TeX's memory you used:
- 10654 strings out of 492946
- 166986 string characters out of 3135510
- 528958 words of memory out of 3000000
- 14283 multiletter control sequences out of 15000+200000
+ 10656 strings out of 492946
+ 167008 string characters out of 3135510
+ 528959 words of memory out of 3000000
+ 14284 multiletter control sequences out of 15000+200000
  12425 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,13n,66p,9110b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1004,9 +991,9 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TdeGPAE.pdf (22 pages, 255762 bytes).
+Output written on TdeGPAE.pdf (23 pages, 259146 bytes).
 PDF statistics:
- 344 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
  142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
