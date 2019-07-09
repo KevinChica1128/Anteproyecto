@@ -27,7 +27,7 @@ remplazardatos=function(b,datos){
   return(matr)  
 }
 
-X1inf<-remplazardatos(0.001,X1) #Cama 1 infectada con el 50%
+X1inf<-remplazardatos(0.1,X1) #Cama 1 infectada con el 50%
 viveroinf<-remplazardatos(0.01,Vivero) #Vivero con el 1% de infectados
 
 sample(X1inf,5) #MAS para la cama 1 infectada
