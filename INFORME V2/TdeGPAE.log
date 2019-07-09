@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  7 JUL 2019 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  9 JUL 2019 14:54
 entering extended mode
 **./TdeGPAE.tex
 (TdeGPAE.tex
@@ -732,10 +732,14 @@ LaTeX Info: Redefining \% on input line 49.
  [5]
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
- [6]
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
- [7])
+ [6])
+Underfull \hbox (badness 10000) in paragraph at lines 80--21
+
+ []
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[7]
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  [8]
@@ -751,7 +755,7 @@ chapter 2.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  [10]
-Underfull \hbox (badness 3724) in paragraph at lines 34--38
+Underfull \hbox (badness 3724) in paragraph at lines 36--40
 []\OT1/cmr/m/n/12 Muestreo se-lec-ti-vo o di-ri-gi-do: El mues-treo se-lec-ti-v
 o con-sis-te en se-lec-cio-nar
  []
@@ -759,7 +763,7 @@ o con-sis-te en se-lec-cio-nar
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 [11]
-Underfull \hbox (badness 1102) in paragraph at lines 49--50
+Underfull \hbox (badness 1102) in paragraph at lines 51--52
 \OT1/cmr/m/n/12 gran par-te del mues-treo de acep-ta-cion. Es apli-ca-ble cuan
 -do se mues-trea una
  []
@@ -767,7 +771,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 49--50
 LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
 [12]
-Underfull \hbox (badness 2119) in paragraph at lines 66--67
+Underfull \hbox (badness 2119) in paragraph at lines 68--69
 []\OT1/cmr/m/n/12 Distribucion pois-son: La dis-tri-bu-cion de Pois-son se ut
 i-li-za pa-ra cal-cu-lar las
  []
@@ -879,31 +883,7 @@ See the scrbook class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 ...tin of the World Health Organization} {\bf
-                                                  
-You should note that since 1994 LaTeX2e provides a new font selection scheme
-called NFSS2 with several new, combinable font commands. KOMA-Script
-classes had defined the old font commands like `\bf' only for compatibility
-with old LaTeX 2.09 document styles of Script 2.0. Nevertheless, these
-commands are deprecated and undocumented at least since 2003. Since 2013
-KOMA-Script classes warned about soon removement of these deprecated commands.
-Now, after two decades of LaTeX2e and NFSS2, these commands will not work any
-more. If loading a package results in this error message, you should contact
-the author of that package and ask him to replace the deprecated font command
-`\bf', e.g., by `\normalfont \bfseries `. Otherwise you should reconfigure
-or replace the package. If you have used the old font command `\bf' yourself,
-you should replace it, e.g., by `\normalfont \bfseries '.
-To make it work for now, you can use the already also deprecated class option
-`enabledeprecatedfontcommands'.
-
-
-! Class scrbook Error: undefined old font command `\bf'.
-
-See the scrbook class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76   management', {\em Phytopathology} {\bf
+l.68   management', {\em Phytopathology} {\bf
                                               104}(10),~1052--1062.
 You should note that since 1994 LaTeX2e provides a new font selection scheme
 called NFSS2 with several new, combinable font commands. KOMA-Script
@@ -931,8 +911,8 @@ See the scrbook class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102   Organization} {\bf
-                           79}(6),~501--505.
+l.98   Organization} {\bf
+                          79}(6),~501--505.
 You should note that since 1994 LaTeX2e provides a new font selection scheme
 called NFSS2 with several new, combinable font commands. KOMA-Script
 classes had defined the old font commands like `\bf' only for compatibility
@@ -972,12 +952,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
  ) 
 Here is how much of TeX's memory you used:
  10656 strings out of 492946
- 167008 string characters out of 3135510
- 528962 words of memory out of 3000000
+ 167107 string characters out of 3135510
+ 528923 words of memory out of 3000000
  14284 multiletter control sequences out of 15000+200000
  12425 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,13n,66p,9110b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,12n,66p,9110b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
@@ -991,7 +971,7 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TdeGPAE.pdf (23 pages, 259710 bytes).
+Output written on TdeGPAE.pdf (23 pages, 259253 bytes).
 PDF statistics:
  349 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)

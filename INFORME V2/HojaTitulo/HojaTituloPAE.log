@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  7 JUL 2019 22:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  9 JUL 2019 10:05
 entering extended mode
 **./HojaTituloPAE.tex
 (HojaTituloPAE.tex
@@ -296,7 +296,7 @@ Overfull \hbox (28.5901pt too wide) in paragraph at lines 16--16
 <recently read> \Large 
                        
 l.17 \Large
-           \textbf{Jose Alejandro Vargas Franco}\\[4.0cm]
+           \textbf{Jos\'{e} Alejandro Vargas Franco}\\[4.0cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -305,7 +305,7 @@ and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (21.50127pt too wide) in paragraph at lines 17--17
- []\OT1/cmr/bx/n/10 Jose 
+ []\OT1/cmr/bx/n/10 Jose 
  []
 
 
@@ -650,7 +650,7 @@ Overfull \hbox (28.5901pt too wide) in paragraph at lines 37--37
 <recently read> \Large 
                        
 l.38 \Large
-           \textbf{Jose Alejandro Vargas Franco}\\[3.0cm]
+           \textbf{Jos\'{e} Alejandro Vargas Franco}\\[3.0cm]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -659,7 +659,7 @@ and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (21.50127pt too wide) in paragraph at lines 38--38
- []\OT1/cmr/bx/n/10 Jose 
+ []\OT1/cmr/bx/n/10 Jose 
  []
 
 
@@ -694,18 +694,14 @@ Overfull \hbox (33.85397pt too wide) in paragraph at lines 38--38
 
 ! Undefined control sequence.
 l.39 \small
-            Anteproyecto de grado presentado como requisito parcial para opt...
+            Proyecto de grado presentado como requisito parcial para optar a...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no A in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no y in font nullfont!
@@ -933,10 +929,10 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 28 strings out of 492946
- 432 string characters out of 3135510
+ 29 strings out of 492946
+ 448 string characters out of 3135510
  58619 words of memory out of 3000000
- 4021 multiletter control sequences out of 15000+200000
+ 4022 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  18i,4n,16p,194b,140s stack positions out of 5000i,500n,10000p,200000b,50000s
