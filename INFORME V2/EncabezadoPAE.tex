@@ -23,6 +23,14 @@
 \usepackage{longtable}
 \usepackage{hyperref}
 \usepackage{url}
+\RequirePackage{ifpdf}
+\ifpdf
+    \RequirePackage{graphicx,color}%                % herramientas para inclusión de gráficos y el manejo del color
+    \DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\else
+    \RequirePackage[dvips]{graphicx,color}%
+    \DeclareGraphicsExtensions{.eps}
+\fi
 
 \usepackage[none]{hyphenat}
     \sloppy
