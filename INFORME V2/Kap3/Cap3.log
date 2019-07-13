@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  24 MAR 2019 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  13 JUL 2019 10:26
 entering extended mode
 **./Cap3.tex
 (Cap3.tex
@@ -1071,6 +1071,17 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 10--11
 \/cmr/m/n/10 o
  []
 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+[] 
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no D in font nullfont!
 )
 ! Emergency stop.
 <*> ./Cap3.tex
@@ -1080,7 +1091,7 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 10--11
  
 Here is how much of TeX's memory you used:
  18 strings out of 492946
- 278 string characters out of 3135510
+ 286 string characters out of 3135510
  58009 words of memory out of 3000000
  4014 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000

@@ -121,7 +121,28 @@ $$f(x)=\frac{{\mu}^x \; e^{-\mu}}{x!}$$
 ~\\ x es el n\'{u}mero de ocurrencias, $x=0,1,2,\dots$
 \end{itemize}
 
+~\\\textbf{Par\'{a}metros del muestreo de aceptaci\'{o}n}
+
+En el muestreo de aceptaci\'{o}n de lotes, se deben determinar ciertos par\'{a}metros que nos permitan encontrar el tama\~{n}o de muestra y el n\'{u}mero de aceptaci\'{o}n adecuado y decidir si rechazamos o aceptamos el lote a partir de los datos recogidos en la muestra, esos par\'{a}metros son:
+
+\begin{itemize}
+\item AQL (Acceptable Quality Level): El nivel de calidad aceptable es la definici\'{o}n num\'{e}rica de un buen lote. Proporci\'{o}n promedio de unidades defectuosas en los lotes de producci\'{o}n.Un lote que contenga menos de AQL\% de unidades defectuosas se considera de muy buena calidad.
+\item LTPD (Lot Tolerance Percents Defective): Tambi\'{e}n conocido como nivel de calidad rechazable, es el m\'{a}ximo porcentaje de unidades defectuosas toleradas en un lote. Un lote que contenga mas de un LTPD\% de unidades defectuosas debe ser rechazado.
+\item Riesgo del productor: Se define como la probabilidad de que el procedimiento rechace un lote con buenas condiciones de calidad. Esto es
+$$P(rechazar|AQL)=\alpha$$
+\item Riesgo del consumidor: Se define como la probabilidad de que el procedimiento acepte un lote que no cumple con las condiciones m\'{i}nimas de calidad. Esto es
+$$P(aceptar|LTPD)=\beta$$
+\item N\'{u}mero de aceptaci\'{o}n: Es el n\'{u}mero de unidades infestadas o el n\'{u}mero de plagas individuales permitidas en una
+muestra de determinado tama\~{n}o, antes de que se tomen medidas fitosanitarias.\cite{MUES}
+
+\item Tama\~{n}o de la muestra: Es la cantidad de unidades seleccionadas del lote o env\'{i}o que se inspeccionar\'{a}n o someter\'{a}n a
+pruebas de diagn\'{o}stico.\cite{MUES}
+
+\end{itemize}
+
 ~\\\textbf{Indicadores de desempe\~{n}o de los planes de muestreo}
+
+Para poder identificar cu\'{a}les planes de muestreo funcionan mejor, es decir, bajo qu\'{e} tama\~{n}os de muestra y n\'{u}mero de aceptaci\'{o}n se tiene un mejor poder de discriminaci\'{o}n, aceptando lotes buenos y rechazando lotes malos o defectuosos, se utilizan varios indicadores de desempe\~{n}o que se pueden representar gr\'{a}ficamente para realizar las comparaciones. Estos indicadores son:
 \begin{itemize}
 \item Curva caracter\'{i}stica de operaci\'{o}n: Es una representaci\'{o}n gr\'{a}fica del rendimiento de un plan de muestreo. Se crea trazando la probabilidad de que el lote sea detectado, para toda una gama de proporciones de unidades defectuosas. Esta gr\'{a}fica describe el grado en que un plan de muestreo permite distinguir entre los lotes buenos y los lotes malos. \cite{OPE} 
 
@@ -141,19 +162,39 @@ Se debe tener en cuenta que cuando el tama\~{n}o del lote es por lo menos 10 vec
 
 \begin{figure}[h!]
   \centering
-  \includegraphics[scale=0.45]{IMAGENES/Figura2.pdf}
-  \caption{Ejemplos curvas de operaci\'{o}n para lotes grandes $n/N<0.1$}
+  \includegraphics[scale=0.45]{IMAGENES/Figura1.pdf}
+  \caption{Ejemplo curvas de operaci\'{o}n para lotes grandes $n/N<0.1$}
 \end{figure}
 
-~\\En el muestreo de aceptaci\'{o}n de lotes, se deben determinar ciertos par\'{a}metros que nos permitan decidir si rechazamos o aceptamos el lote a partir de los datos recogidos en la muestra, esos par\'{a}metros son:
-\item N\'{u}mero de aceptaci\'{o}n: Es el n\'{u}mero de unidades infestadas o el n\'{u}mero de plagas individuales permitidas en una
-muestra de determinado tama\~{n}o, antes de que se tomen medidas fitosanitarias.\cite{MUES}
-\item Nivel de detecci\'{o}n:Es el porcentaje o la proporci\'{o}n de infestaci\'{o}n m\'{i}nimo que detectar\'{a} la metodolog\'{i}a de muestreo
-al nivel de eficacia de detecci\'{o}n y el nivel de confianza especificado.\cite{MUES}
-\item Nivel de confianza:Indica la probabilidad de que un env\'{i}o con un grado de infestaci\'{o}n que exceda el nivel de
-detecci\'{o}n ser\'{a} detectado. Se suele utilizar un nivel de confianza del 95\%.\cite{MUES}
-\item Eficacia de la detecci\'{o}n: La eficacia de la detecci\'{o}n es la probabilidad de que la inspecci\'{o}n o la prueba de diagn\'{o}stico de una o m\'{a}s unidades infestadas detectar\'{a} una plaga. En general, no deber\'{i}a suponerse que habr\'{a} un 100\% de eficacia.\cite{MUES}
-\item Tama\~{n}o de la muestra: Es la cantidad de unidades seleccionadas del lote o env\'{i}o que se inspeccionar\'{a}n o someter\'{a}n a
-pruebas de diagn\'{o}stico.\cite{MUES}
-\item Nivel de tolerancia:Se refiere al porcentaje de infestaci\'{o}n de todo el env\'{i}o o lote que constituye el umbral para la acci\'{o}n fitosanitaria.En general, se utiliza un nivel de tolerancia 0.\cite{MUES}
+\item Average Outgoing Quality (AOQ): La calidad promedio de salida es la proporci\'{o}n promedio de unidades defectuosas entre aquellas unidades que
+superan el proceso de inspecci\'{o}n. Este concepto es una forma de medir el efecto de un plan de muestreo sobre la calidad que se tendr\'{a} despu\'{e}s de aplicarlo. Existen dos formas de calcular el AOQ, dependiendo de la acci\'{o}n que se realice sobre los lotes rechazados o aceptados.
+\begin{itemize}
+\item Caso 1: Lotes rechazados son inspeccionados al 100\% y se libran de defectuosos, es decir, se realiza un censo en todo el lote rechazado y se cambian los productos defectuosos.
+$$AOQ=P_a*P$$
+\item Caso 2: Sobre los lotes aceptados el inspector no realiza ninguna acci\'{o}n
+$$AOQ=P_a*P*(1-\frac{n}{N})$$
+\end{itemize} 
+
+\item Average Outgoing Quality Limit(AOQL): La m\'{a}xima calidad promedio de salida, seg\'{u}n el concepto anterior, se podr\'{i}a interpretar como el peor nivel de calidad con el que se espera trabajar bajo un plan de muestreo implementado. Se encuentra como
+$$max(AOQ)$$
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[scale=0.45]{IMAGENES/Figura2.pdf}
+  \caption{Ejemplo gr\'{a}fica AOQ y AOQL}
+\end{figure}
+
+\item Average Total Inspection (ATI): La inspecci\'{o}n total promedio es el n\'{u}mero esperado de piezas a inspeccionar por lote, su valoraci\'{o}n es importante en la estimaci\'{o}n de los costos a largo plazo del procedimiento. Si un lote es de calidad $p$ y la probabilidad de aceptaci\'{o}n es $P_a$, entonces la inspecci\'{o}n total promedio por lote es:
+$$ATI=n*P_a +N*(1-P_a)$$
+
+Lotes muy malos tendr\'{a}n un comportamiento asint\'{o}tico de la curva ATI, la cual tendera al tama\~{n}o del lote, cuando este es finito.
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[scale=0.6]{IMAGENES/Figura3.png}
+  \caption{Ejemplo gr\'{a}fica ATI}
+\end{figure}
 \end{itemize}
+
+
+
