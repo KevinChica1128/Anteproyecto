@@ -188,8 +188,8 @@ Diseñar y validar empíricamente un plan de muestreo para aceptación y rechazo
 \justifying
 \item[3.]Evaluación, mejora y monitorización de la adecuación de ingreso y estancia en Medicina Interna con el muestreo de aceptación de lotes.(2000)\cite{AE3}
 ~\\En este proyecto se utilizó el método de LQAS para evaluar la calidad, se tomaron muestras de pacientes en diferentes periodos primero evaluando la calidad del ingreso y estancia actual y luego tras hacer ciertas mejoras. Crearon un umbral de mala calidad que es “\% de adecuación” que funciona como regla de parada.
-\item[4.]Field trial of applicability of lot quality assurance sampling survey method for rapid assessment of prevalence of active tracoma.(2003)\cite{AE4}
-~\\Este proyecto utiliza el método de LQAS para clasificar niños que padecen de tracoma en 3 tres categorías de prevalencia, se crearon umbrales para determinar las categorías y basándose en datos de encuestas se decide si un niño pertenece a una categoría o a otra.
+\item[4.]Zero Acceptance Number Sampling Plans.(2008)\cite{AE5}
+~\\El autor  compara el muestreo de aceptaci\'{o}n y rechazo para atributos por el m\'{e}todo MIL-STD-105E/ANSI Z1.4 y los planes de muestreo c=0, dichas comparaciones se realizan en t\'{e}rminos de tama\~{n}os de muestra, curvas caracter\'{i}sticas de operaci\'{o}n y del AOQ(Calidad Promedio de Salida) y AOQL (M\'{a}ximo porcentaje de defectuosos esperado). Finalmente, se concluye que el m\'{e}todo propuesto en comparaci\'{o}n con el m\'{e}todo MIL-STD-105E/ANSI Z1.4 protege a\'{u}n m\'{a}s al consumidor.
 \end{itemize}
 \end{varblock}
 }
@@ -234,15 +234,16 @@ Diseñar y validar empíricamente un plan de muestreo para aceptación y rechazo
 \item Muestreo Binomial
 \item Muestreo Poisson
 \item Aceppt on zero plans - AOZ
+\item $\alpha$ Riesgo del productor
 \end{itemize}
 \column{.51\textwidth}
 \begin{itemize}
-\item $\alpha$ Riesgo del productor
 \item $\beta$ Riesgo del consumidor
 \item NCA (Nivel de Calidad Aceptable)
 \item NCL (Nivel de Calidad Limite)
 \item Número de aceptación
 \item Curva característica de operación
+\item Indicadores de desempeño(AOQ, AOQL, ATI)
 \end{itemize}
 \end{columns}
 \end{block}
@@ -253,33 +254,40 @@ Diseñar y validar empíricamente un plan de muestreo para aceptación y rechazo
 \begin{frame}{Metodología}
 \begin{block}{Visita viveros}
 \justifying
-Se realizaron dos visitas a viveros ubicados en Caicedonia - Valle del Cauca y en Calarcá - Quindío, los cuáles presentaban una capacidad aproximada  de 70000 y 120000 plantas como máximo respectivamente. Estos viveros se encuentran registrados bajo la norma ICA 4215 del año 2014.
+Se visitaron dos viveros ubicados en Caicedonia - Valle del Cauca y en Calarcá - Quindío, los cuales presentaban una capacidad máxima aproximada de 70000 y 120000 plantas respectivamente. Se utilizó una guía de observación elaborada por nosotros, la cual nos ayudó a extraer la información necesaria para aplicar la metodología y para el respectivo proceso de simulación.
 \end{block}
-\begin{block}{Clasificación viveros}
+\begin{block}{Categorización de los lotes}
 \justifying
-De estudios anteriores, se clasifican los viveros con respecto a su producción anual de plántulas de cítricos en tres grupos:
-\begin{center}
-\begin{tabular}{ccc}
-Pequeños & Medianos & Grandes \\ 
-\hline
-$ X < \;\; 20000$ & $20000 \leq X \leq 100000$ & $X > 100000$ \\ 
-\hline
-\end{tabular} 
-\end{center}
-Además, se clasifican en tres tipos, dependiendo de su tipo de producción:
-\begin{itemize}
-\item Productores:
-\item Comercializadores:
-\item Productores y comercializadores
-\end{itemize}
+Para este punto se categorizar\'{a}n los lotes seg\'{u}n su tama\~{n}o con el fin de conocer qu\'{e} plan aplicar para cada tama\~{n}o del lote ($N$), esto es qu\'{e} tama\~{n}o de la muestra tomar cuando el lote es peque\~{n}o, mediano o grande; las categor\'{i}as se definir\'{a}n con rangos de tama\~{n}os.
+\end{block}
+\begin{block}{Diseño del plan de muestreo en campo}
+\justifying
+Para este punto se diseñarán las propuestas metodol\'{o}gicas que se implementar\'{a}n en los viveros con el fin de que la muestra recogida no solo sea aleatoria si no tambi\'{e}n representativa.
 \end{block}
 \end{frame}
 
 \begin{frame}{Metodología}
-\begin{block}{Caracterización unidades de muestreo}
+\begin{block}{Calculo de los tamaños de muestra para cada categoría}
 \justifying
+Se har\'{a} uso de la metodolog\'{i}a de los panes $c=0$ para calcular los tama\~{n}os de muestra correspondiente en cada categor\'{i}a previamente definida, esto con el fin de que cada rango de tama\~{n}o tenga un respectivo tama\~{n}o de muestra o porcentaje de plantas a muestrear.
+\end{block}
+\begin{block}{Calculo de los indicadores de desempe\~{n}o (AOQ, AOQL, ATI, OC)}
+\justifying
+Una vez dise\~{n}ado el plan de muestreo y definido qu\'{e} tama\~{n}os de muestra se van a utilizar, pasamos a evaluar el dise\~{n}o muestreal, esto lo hacemos a partir de los indicadores del dise\~{n}o y sus respectivas curvas. Cada una nos dir\'{a} qu\'{e} tan bueno es el muestreo, qu\'{e} riesgos se llegan a correr en cuanto a la probabilidad de aceptar lotes con $x$ cantidad de plantas infectadas, tambi\'{e}n la calidad promedio de salida y la cantidad de plantas que se deber\'{i}an inspeccionar con dicho plan si existen $x$ cantidad de plantas infectadas en el lote.
 \end{block}
 \end{frame}
+
+\begin{frame}{Metodología}
+\begin{block}{Categorizaci\'{o}n de los viveristas seg\'{u}n el nivel de riesgo}
+\justifying
+Luego de tener todo lo respectivo al muestreo, se planea crear 3 niveles de riesgo, flexible, normal y riguroso, esto para tener en cuenta en el muestreo el historial de los viveristas y ``premiar'' a los que mantengan una calidad en sus viveros alta, as\'{i} pues los viveristas comenzar\'{a}n en un nivel de riesgo normal, y pasaran a flexible o riguroso dependiendo de la cantidad de lotes ``buenos o malos'' que tengan en su historial, as\'{i} los que tengan una calidad ``buena'' en sus viveros tendr\'{a}n tama\~{n}os de muestra mas peque\~{n}os y por el contrario los que tengan calidad ``mala'' (varios lotes rechazados) pasaran a tener un  tama\~{n}o de muestra mayor, lo que implica m\'{a}s costos.
+\end{block}
+\begin{block}{Validaci\'{o}n de los planes por medio de simulaci\'{o}n}
+\justifying
+Por \'{u}ltimo se validar\'{a}n los planes dise\~{n}ados utilizando herramientas computacionales donde, se simular\'{a}n todos los posibles escenarios de los viveros con los diferentes planes para as\'{i} conocer si estos cumplen con el objetivo de detectar lotes infectados con una confianza alta.
+\end{block}
+\end{frame}
+
 \bibliographystyle{plain}
   \bibliography{references}
 \end{document}

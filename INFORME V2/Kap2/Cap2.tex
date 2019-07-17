@@ -29,7 +29,7 @@ De aqu\'{i} se desprenden diferentes conceptos importantes para el desarrollo de
 \item Vivero: \'{A}rea de terreno delimitada para propagar semillas de c\'{i}tricos [Resoluci\'{o}n ICA 4215, 2014]
 \end{itemize}
 
-Seg\'{u}n la FAO, 1990:
+~\\\textbf{Seg\'{u}n la FAO, 1990:}
 \begin{itemize}
 \item Lote: Conjunto de unidades de un solo producto b\'{a}sico, identificable por su composici\'{o}n homog\'{e}nea, origen, etc., que forma parte de un env\'{i}o.
 \item Plaga: Cualquier especie, raza o biotipo vegetal o animal o agente pat\'{o}geno da\~{n}ino para las plantas o productos vegetales.
@@ -132,12 +132,9 @@ En el muestreo de aceptaci\'{o}n de lotes, se deben determinar ciertos par\'{a}m
 $$P(rechazar|AQL)=\alpha$$
 \item Riesgo del consumidor: Se define como la probabilidad de que el procedimiento acepte un lote que no cumple con las condiciones m\'{i}nimas de calidad. Esto es
 $$P(aceptar|LTPD)=\beta$$
-\item N\'{u}mero de aceptaci\'{o}n: Es el n\'{u}mero de unidades infestadas o el n\'{u}mero de plagas individuales permitidas en una
-muestra de determinado tama\~{n}o, antes de que se tomen medidas fitosanitarias.\cite{MUES}
-
-\item Tama\~{n}o de la muestra: Es la cantidad de unidades seleccionadas del lote o env\'{i}o que se inspeccionar\'{a}n o someter\'{a}n a
-pruebas de diagn\'{o}stico.\cite{MUES}
-
+\item Tama\~{n}o del lote: Es la cantidad de elementos que hay en la poblaci\'{o}n que se desea analizar.
+\item Tama\~{n}o de la muestra (n): Es la cantidad de unidades seleccionadas del lote que se inspeccionar\'{a}n, y se definir\'{a}n como defectuosas o no defectuosas. 
+\item N\'{u}mero de aceptaci\'{o}n (c): Es el n\'{u}mero de unidades defectuosas permitidas en una muestra de determinado tama\~{n}o n, para el cual se sigue aceptando el lote. Este par\'{a}metro define el criterio para aceptar o rechazar el lote. Sea $x$ el n\'{u}mero de unidades defectuosas en la muestra, se acepta el lote si $x\leq c$.
 \end{itemize}
 
 ~\\\textbf{Indicadores de desempe\~{n}o de los planes de muestreo}
@@ -191,9 +188,26 @@ Lotes muy malos tendr\'{a}n un comportamiento asint\'{o}tico de la curva ATI, la
 
 \begin{figure}[h!]
   \centering
-  \includegraphics[scale=0.6]{IMAGENES/Figura3.png}
+  \includegraphics[scale=0.8]{IMAGENES/Figura3.png}
   \caption{Ejemplo gr\'{a}fica ATI}
 \end{figure}
+\end{itemize}
+
+\pagebreak
+~\\\textbf{Planes c=0}
+
+Existen algunos m\'{e}todos establecidos para encontrar el tama\~{n}o de muestra, dados algunos par\'{a}metros. Nos centraremos principalmente en los planes AoZ (accept-on-zero), tambi\'{e}n conocidos como planes ``aceptar en ninguno'' o ``cero defectos'' , ya que en este caso, los lotes de plantas que presenten por lo menos una planta infectada en la muestra seleccionada, se debe rechazar, por los riesgos que estas infecciones representan para los consumidores o clientes y por la facilidad con la cual se transmiten las enfermedades de una planta a otra.
+
+Estos planes, son planes de muestreo de aceptaci\'{o}nn con un umbral de aceptaci\'{o}n de $c = 0$. En otras palabras, dictan la aceptaci\'{o}n de los lotes solo si no se encuentran elementos no conformes en la muestra. A su vez, existen diferentes t\'{e}cnicas que se han trabajado a lo largo del tiempo, que definen los tama\~{n}os de muestra necesarios, y se basan en distintos pa\'{a}metros, algunos de los m\'{a}s utilizados son
+\begin{itemize}
+\item MIL-STD-1916: Es una norma realizada por el departamento de defensa de Estados Unidos denominada ``M\'{e}todo de prueba est\'{a}ndar: M\'{e}todos preferidos por el departamento de defensa para la aceptaci\'{o}n del producto''. El prop\'{o}sito de esta norma fue alentar a los contratistas de defensa y otras organizaciones comerciales que suministran bienes y servicios al gobierno de los EE. UU. a presentar procedimientos de control de procesos (prevenci\'{o}n) eficientes y efectivos en lugar de los requisitos de muestreo prescritos. El objetivo es respaldar el alejamiento de una estrategia de inspecci\'{o}n (detecci\'{o}n) basada en AQL para la implementaci\'{o}n de una estrategia efectiva basada en la prevenci\'{o}n que incluya un sistema de calidad integral y mejora continua.
+
+Los planes y procedimientos de calidad en esta norma se pueden usar cuando sea apropiado para evaluar el cumplimiento de los requisitos de art\'{i}culos finales, componentes o materiales b\'{a}sicos, operaciones o servicios, materiales en proceso, suministros en almacenamiento, operaciones de mantenimiento, datos o registros y/o procedimientos administrativos. 
+
+Esta norma cuenta con un conjunto de tabla preestablecidas, con las cuales se encuentra el tama\~{n}o de muestra requerido a partir del tama\~{n}o del lote, del tipo de muestreo (atributo, variable o continuo) y del nivel de inspecci\'{o}n deseado  que se desee evaluar. Sin embargo, no se usa ampliamente debido a su dificultad y uso pr\'{a}ctico.
+
+
+\item Squeglia plans: Los planes de n\'{u}mero de aceptaci\'{o}n cero desarrollados por el autor se dise\~{n}aron originalmente y se utilizaron para proporcionar una protecci\'{o}n igual o mayor al consumidor con menos inspecci\'{o}n general que los planes de muestreo MIL-STD-105-E correspondientes. En el a\~{n}o 2000, el Departamento de Defensa declar\'{o} obsoleto a MIL-STD-105-E y recomend\'{o} los planes c = 0 en este libro para usarlos en lugar de ellos. Adem\'{a}s de las ventajas econ\'{o}micas, los planes en este libro tambi\'{e}n son f\'{a}ciles de usar y administrar. Nicholas Squeglia deriv\'{o} los Planes de Muestreo de N\'{u}mero de Aceptaci\'{o}n Cero del est\'{a}ndar ANSI / ASQ Z1.4 (MIL-STD-105E), y sus planes de muestreo C = 0 redujeron en gran medida la complejidad asociada con ANSI / ASQ Z1.4. Por ejemplo, el uso de inspecci\'{o}n normal, ajustada y reducida; reglas de conmutaci\'{o}n; muestreo \'{u}nico y doble no se integraron en el procedimiento de Squeglia.
 \end{itemize}
 
 
