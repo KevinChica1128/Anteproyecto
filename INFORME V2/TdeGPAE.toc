@@ -13,10 +13,10 @@
 \contentsline {section}{\numberline {2.2}Marco Te\'{o}rico Estad\'{i}stico}{12}{section.2.2}% 
 \contentsline {chapter}{\numberline {3}Metodolog\'{i}a}{21}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Visita viveros}{21}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Categorizaci\'{o}n de lotes}{21}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Dise\~{n}o del plan de muestreo en campo}{21}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}Calculo de los tama\~{n}os de muestra para cada categor\'{i}a (Metodolog\'{i}a AoZ)}{22}{section.3.4}% 
+\contentsline {section}{\numberline {3.2}Calculo de los tama\~{n}os de muestra para cada tama\~{n}o de lote (Metodolog\'{i}a AoZ)}{21}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Categorizaci\'{o}n de lotes}{22}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Dise\~{n}o del plan de muestreo en campo}{22}{section.3.4}% 
 \contentsline {section}{\numberline {3.5}Calculo de los indicadores de desempe\~{n}o (AOQ, AOQL, ATI, OC)}{22}{section.3.5}% 
 \contentsline {section}{\numberline {3.6}Categorizaci\'{o}n de los viveristas seg\'{u}n el nivel de riesgo}{22}{section.3.6}% 
-\contentsline {section}{\numberline {3.7}Validaci\'{o}n de los planes por medio de simulaci\'{o}n}{22}{section.3.7}% 
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'{\i }a}{23}{section.3.7}% 
+\contentsline {section}{\numberline {3.7}Validaci\'{o}n de los planes por medio de simulaci\'{o}n}{23}{section.3.7}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'{\i }a}{24}{section.3.7}% 

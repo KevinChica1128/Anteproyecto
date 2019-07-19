@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  17 JUL 2019 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.2)  17 JUL 2019 22:02
 entering extended mode
 **./TdeGPAE.tex
 (TdeGPAE.tex
@@ -802,7 +802,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 LaTeX Info: Redefining \. on input line 156.
 LaTeX Info: Redefining \% on input line 156.
  [16]
-<IMAGENES/Figura1.pdf, id=214, 1027.84pt x 545.03625pt>
+<IMAGENES/Figura1.pdf, id=215, 1027.84pt x 545.03625pt>
 File: IMAGENES/Figura1.pdf Graphic file (type pdf)
 <use IMAGENES/Figura1.pdf>
 Package pdftex.def Info: IMAGENES/Figura1.pdf  used on input line 162.
@@ -810,12 +810,12 @@ Package pdftex.def Info: IMAGENES/Figura1.pdf  used on input line 162.
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
  [17 <./IMAGENES/Figura1.pdf>]
-<IMAGENES/Figura2.pdf, id=223, 1027.84pt x 545.03625pt>
+<IMAGENES/Figura2.pdf, id=224, 1027.84pt x 545.03625pt>
 File: IMAGENES/Figura2.pdf Graphic file (type pdf)
 <use IMAGENES/Figura2.pdf>
 Package pdftex.def Info: IMAGENES/Figura2.pdf  used on input line 180.
 (pdftex.def)             Requested size: 462.52373pt x 245.26405pt.
-<IMAGENES/Figura3.png, id=224, 396.7322pt x 284.56313pt>
+<IMAGENES/Figura3.png, id=225, 396.7322pt x 284.56313pt>
 File: IMAGENES/Figura3.png Graphic file (type png)
 <use IMAGENES/Figura3.png>
 Package pdftex.def Info: IMAGENES/Figura3.png  used on input line 191.
@@ -845,18 +845,17 @@ LaTeX Info: Redefining \% on input line 22.
 
  (Kap3/Cap3.tex
 chapter 3.
-
-Underfull \vbox (badness 1215) has occurred while \output is active []
-
- [21
+[21
 
 
 
-])
+]
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [22])
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-
-[22] (TdeGPAE.bbl
+ [23] (TdeGPAE.bbl
 
 ! Class scrbook Error: undefined old font command `\bf'.
 
@@ -935,7 +934,7 @@ you should replace it, e.g., by `\normalfont \bfseries '.
 To make it work for now, you can use the already also deprecated class option
 `enabledeprecatedfontcommands'.
 
-[23
+[24
 
 
 ]
@@ -972,7 +971,7 @@ To make it work for now, you can use the already also deprecated class option
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [24]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
  (TdeGPAE.aux (HojaTitulo/HojaTituloPAE.aux)
 LaTeX Info: Redefining \. on input line 26.
@@ -987,9 +986,9 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 28.
  ) 
 Here is how much of TeX's memory you used:
  10696 strings out of 492946
- 167568 string characters out of 3135510
+ 167567 string characters out of 3135510
  395490 words of memory out of 3000000
- 14315 multiletter control sequences out of 15000+200000
+ 14314 multiletter control sequences out of 15000+200000
  12425 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,13n,66p,9110b,550s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1006,9 +1005,9 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TdeGPAE.pdf (28 pages, 321114 bytes).
+Output written on TdeGPAE.pdf (29 pages, 323061 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
